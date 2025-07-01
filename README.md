@@ -16,6 +16,3 @@
 - [x] 히히
 - [ ] 하하
 - [ ] 호호
-
-
-![image](https://github.com/user-attachments/assets/df351845-0d4e-4e3a-acba-685058f4ab9b)
